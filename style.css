@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255,255,255,.5)), url("resources/bg.png") ;
+}
+
+#text{
+    font-family:fantasy;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
